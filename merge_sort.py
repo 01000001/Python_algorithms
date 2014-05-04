@@ -1,5 +1,5 @@
 def merge_sort(input_to_sort):
-
+    
     if len(input_to_sort) <=1:
         return input_to_sort
     
